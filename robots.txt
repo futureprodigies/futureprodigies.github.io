@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://futureprodigies.github.io/sitemap.xml
